@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+img{
+border:solid;
+color: rgb(3, 3, 3);
+padding: 10px;
+
+}
+h1{
+  color: aquamarine;
+}
+h2{
+  color: blue;
+}
